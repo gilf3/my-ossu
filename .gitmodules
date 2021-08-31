@@ -1,0 +1,3 @@
+[submodule "c022-os/ostep-projects"]
+	path = c022-os/ostep-projects
+	url = git@github.com:remzi-arpacidusseau/ostep-projects.git
